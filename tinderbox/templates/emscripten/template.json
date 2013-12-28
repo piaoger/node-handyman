@@ -1,0 +1,14 @@
+// template.json
+
+{
+    "name": "emscripten_default",
+    "description": "default template for emscripten project",
+    "version": "0.1.0",
+
+    "mappings":{
+        "name" : {
+           "template": "PROJECT_NAME",
+           "display": "Emscripten Project Name"
+        }
+    }
+}

@@ -1,0 +1,25 @@
+// template.json
+
+{
+    "name": "node_module_default",
+    "description": "default template for node module",
+    "version": "0.1.0",
+
+    "mappings":{
+        "name" : {
+           "template": "MODULE_NAME",
+           "display": "Node Module Name"
+        },
+
+        "author" : {
+           "template": "MODULE_AUTHOR",
+           "display": "Node Module Author"
+        },
+
+        "description": {
+           "template": "MODULE_DESCRIPTION",
+           "display": "Node Module Description"
+        }
+
+    }
+}

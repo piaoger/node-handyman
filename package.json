@@ -9,7 +9,7 @@
     "author": "Piaoger Gong <piaogerbeta@gmail.com>",
     "repository": {
         "type": "git",
-        "url": "https://github.com/piaoger/node-handyman"
+        "url": "https://github.com/piaoger/node-handyman.git"
     },
     "bugs": {
         "email": "piaogerbeta@gmail.com",
