@@ -18,3 +18,5 @@
 
    - https://github.com/kripken/emscripten/blob/master/system/include/emscripten/bind.h
 
+   - https://github.com/kripken/emscripten/wiki/embind
+
