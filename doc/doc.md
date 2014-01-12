@@ -1,6 +1,18 @@
 
 # node-handyman brainstorm
 
+## Build system
+
+ci:
+
+   https://travis-ci.org
+
+   https://drone.io
+
+code coverage:
+
+   https://coveralls.io
+
 
 ## JavaScript binding
 
@@ -20,3 +32,8 @@
 
    - https://github.com/kripken/emscripten/wiki/embind
 
+- template
+
+   - https://github.com/m-mizutani/nodejs-addon-template
+
+   - https://github.com/raymondfeng/node-addon-generator
